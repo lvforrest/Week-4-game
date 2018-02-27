@@ -2,10 +2,22 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-size: 25px;
 
 }
 .crystal{
     border: 5px solid yellow;
     height: 200px;
     width: 200px;
+}
+
+img {
+width: 40px;
+}
+h1{
+    text-align: center;
+    text-decoration-color: bold black;
+    font-stretch: extra-expanded;
+    font-size: 100px;
+
 }
